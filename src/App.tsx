@@ -10,7 +10,7 @@ import {
   Text,
   VStack,
 } from "@chakra-ui/react";
-import type { Tweet } from "./types/Tweet"
+import type { Tweet } from "./types/tweet";
 import { supabase } from "./utils/supabase";
 
 
